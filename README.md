@@ -15,3 +15,4 @@ Democratizar el acceso a la salud mediante tecnología blockchain - complementan
 
 ### 🚀 Estado del Proyecto
 Proyecto en desarrollo - Preventa informativa abierta
+..
