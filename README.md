@@ -1,16 +1,17 @@
-## Hi there 👋
+# S.O.S HEALTH TOKEN
 
-<!--
-**SOS-Health-Token/SOS-Health-Token** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Token Médico Global para Acceso Universal a la Salud
 
-Here are some ideas to get you started:
+### 🩺 ¿Qué es S.O.S Health Token?
+El primer token médico global que proporciona acceso rápido y digno a servicios de salud, incluyendo estudios diagnósticos, odontología, oftalmología y medicamentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Misión  
+Democratizar el acceso a la salud mediante tecnología blockchain - complementando los sistemas de salud pública, no reemplazándolos.
+
+### 📞 Contacto
+- Email: sos.health.token@gmail.com  
+- Registro INPI: 3450324 (en trámite)
+- "No es una moneda, es tu medicina del futuro"
+
+### 🚀 Estado del Proyecto
+Proyecto en desarrollo - Preventa informativa abierta
