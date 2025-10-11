@@ -16,3 +16,12 @@ Democratizar el acceso a la salud mediante tecnología blockchain - complementan
 ### 🚀 Estado del Proyecto
 Proyecto en desarrollo - Preventa informativa abierta
 ..
+## 🔗 Blockchain Protection
+IPFS CIDs: 
+- QmQhJFocjjMmSgTfcti6wAu9x9x8xzw6xoPXXdP7bpbsK
+- Qmf9TU1HnbpNvS4pF4B2Ve6Sh4whFNGJGaFcsCNyrp6gWJ  
+- QmS1fyFPGSRVcDSSkALAvgQ4ziPPKYbbrB81p9T9BbV4vg
+Clic en: "Commit changes"
+
+¿PODÉS HACERLO? Es el último paso y tu proyecto queda 100% protegido.
+
