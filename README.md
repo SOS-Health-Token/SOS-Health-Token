@@ -1,3 +1,4 @@
+<img width="200" height="200" alt="sos_github PNG-" src="https://github.com/user-attachments/assets/3857cbd8-d06e-4eb6-b5b6-9c0d09812794" />
 # S.O.S HEALTH TOKEN
 
 ## Token Médico Global para Acceso Universal a la Salud
